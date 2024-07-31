@@ -17,12 +17,7 @@ Olá! Eu sou o Rodrigo! 👋 🔭 .
 </div>
 <br><br>
 <div>
-  <a href="https://www.instagram.com/rodriigo_Sf/" targe="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/rodrigo-de-souza-francisco/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/people/Rodrigo-de-Souza/100004917128279/?mibextid=ZbWKwL" targe="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
-   <a href="https://wa.me/5532999777368" targe="_blank"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>  
-
-  
+ 
   ![Snake animation](https://github.com/RodrigoSF2703/RodrigoSF2703/blob/output/github-contribution-grid-snake.svg)
   
 </div>
