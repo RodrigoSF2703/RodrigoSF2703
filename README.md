@@ -8,13 +8,6 @@ Olá! Eu sou o Rodrigo! 👋 🔭 .
   <img height=180 width=420 src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSF2703&layout=compact&langs_count=16&theme=dark"/> 
 </div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-  <img align="center" alt="Tech" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-</div>
 <br><br>
 <div>
  
