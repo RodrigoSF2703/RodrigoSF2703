@@ -117,8 +117,14 @@ Acredito que ensinar também é uma das melhores formas de continuar aprendendo.
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSF2703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSF2703&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api?username=RodrigoSF2703&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+  <img
+    height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSF2703&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
